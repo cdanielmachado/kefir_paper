@@ -1,9 +1,22 @@
-# Kefir models
-Genome-scale metabolic models for kefir bacteria used in the following publication:
+# Kefir paper supplement
+-----
 
-S. Blasche et al, 2019 (submitted).
+This repository contains code, data, and metabolic models used in the following publication:
 
-These models were built with [CarveMe](https://github.com/cdanielmachado/carveme):
+S. Blasche et al, "Emergence of stable coexistence in a complex microbial community through metabolic cooperation and spatio-temporal niche partitioning" (pre-print on BioRxiv: [https://doi.org/10.1101/541870](https://www.biorxiv.org/content/10.1101/541870v1.abstract))
 
-D. Machado et al, "Fast automated reconstruction of genome-scale metabolic models for microbial species and communities", Nucleic Acids Research, gky537, 2018.
+-----
+
+Technical details:
+
+- The genome-scale metabolic models were built with [CarveMe](https://github.com/cdanielmachado/carveme) (SBML files provided).
+
+- Analysis of meta-transcriptomics data was performed with [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) (R scripts provided).
+
+- Flux balance analysis was performed with [ReFramed](https://github.com/cdanielmachado/reframed) (Jupyter notebooks provided).
+
+-----
+
+
+
 
