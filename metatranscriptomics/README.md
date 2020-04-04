@@ -23,3 +23,5 @@ motus profile -db db_mOTU_kefir_species -n 4337 -M 4337.mgc -f 4337_forward.fast
 Where in both cases, the resulting read counts per gene will be saved in `4337.mgc`.
 
 The results of the profiling can be found in the following directories:
+- `genes_raw.read_counts` for the DESeq2 analysis
+- `genes_insert.scale_counts` for the flux balance analysis
