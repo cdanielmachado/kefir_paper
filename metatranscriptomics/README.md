@@ -2,7 +2,7 @@
 
 Raw reads for the 13 samples can be downloaded under the project id [PRJEB37001](https://www.ebi.ac.uk/ena/data/search?query=PRJEB37001).
 
-Gene read counts were obtained using [mOTUs2](https://motu-tool.org/), with a
+Gene read counts were calculated with [mOTUs2](https://motu-tool.org/), with a
 custom database ([download the database](https://zenodo.org/record/3739770#.XohIqW5S_UI)). Download and unzip with:
 ```
 wget https://zenodo.org/record/3739770/files/db_mOTU_kefir_species.tar.gz
