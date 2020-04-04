@@ -25,3 +25,9 @@ Where in both cases, the resulting read counts per gene will be saved in `4337.m
 The results of the profiling can be found in the following directories:
 - `genes_raw.read_counts` for the DESeq2 analysis
 - `genes_insert.scale_counts` for the flux balance analysis
+
+
+## Run DESeq2
+You can run DESeq2 using the R script `run_deseq2.R` which uses `deseq2_metadata` and the samples in the directory `genes_raw.read_counts`. Note that you need to change at line 5 in the script the position of you repo.
+
+The result will be produced in this directory as three files (`230a.DESeq`, `261.DESeq`, `322b.DESeq`), which we already joined into one file: `deseq2_results.xlsx`.
