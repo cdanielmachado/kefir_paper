@@ -9,7 +9,7 @@ wget https://zenodo.org/record/3739770/files/db_mOTU_kefir_species.tar.gz
 tar -zxvf db_mOTU_kefir_species.tar.gz
 ```
 
-## Running mOTUs
+## Run mOTUs
 mOTUs was run with the following parameters for the following DEseq2 analysis:
 ```
 motus profile -db db_mOTU_kefir_species -n 4337 -M 4337.mgc -f 4337_forward.fastq.gz  -r 4337_reverse.fastq.gz -y insert.raw_counts
