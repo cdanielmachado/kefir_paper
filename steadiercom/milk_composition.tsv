@@ -1,7 +1,7 @@
 medium	description	compound	name	bound
 MILK	water	h2o	H2O	100
-MILK	gas	o2	O2	10
-MILK	gas	co2	CO2	10
+MILK	gas	o2	O2	1.0
+MILK	gas	co2	CO2	1.0
 MILK	sugars	lcts	Lactose	10
 MILK	fatty acids	but	Butyrate	0.1
 MILK	fatty acids	caproic	Caproic acid	0.1
