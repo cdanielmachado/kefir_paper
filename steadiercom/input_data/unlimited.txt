@@ -1,0 +1,17 @@
+ca2
+cl
+cobalt2
+cu2
+fe2
+fe3
+h2o
+h
+k
+mg2
+mn2
+mobd
+na1
+ni2
+pi
+so4
+zn2

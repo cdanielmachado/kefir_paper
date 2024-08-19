@@ -1,0 +1,69 @@
+medium	description	compound	name	bound
+MILK	water	h2o	H2O	100
+MILK	gas	o2	O2	1.0
+MILK	gas	co2	CO2	1.0
+MILK	sugars	lcts	Lactose	10
+MILK	fatty acids	but	Butyrate	0.1
+MILK	fatty acids	caproic	Caproic acid	0.1
+MILK	fatty acids	octa	octanoate	0.1
+MILK	fatty acids	dca	decanoate	0.1
+MILK	fatty acids	ddca	dodecanoate	0.1
+MILK	fatty acids	ttdca	tetradecanoate	0.1
+MILK	fatty acids	ptdca	Pentadecanoate	0.1
+MILK	fatty acids	hdca	hexadecanoate	0.1
+MILK	fatty acids	ocdca	octadecanoate	0.1
+MILK	fatty acids	arach	arachidic acid	0.1
+MILK	fatty acids	ttdcea	Tetradecenoate (n-C14:1)	0.1
+MILK	fatty acids	hdcea	hexadecanoate (n-C16:1)	0.1
+MILK	fatty acids	ocdcea	octadecanoate (n-C18:1)	0.1
+MILK	fatty acids	lnlc	linoleic acid	0.1
+MILK	fatty acids	arachd	arachidonic acid	0.1
+MILK	nucleotides	ade	Adenine	0.01
+MILK	nucleotides	gua	Guanine	0.01
+MILK	nucleotides	ins	Inosine	0.01
+MILK	nucleotides	thymd	Thymidine	0.01
+MILK	nucleotides	ura	Uracil	0.01
+MILK	nucleotides	xan	Xanthine	0.01
+MILK	vitamins	pydx	Pyridoxal	0.01
+MILK	vitamins	cbl1	Vitamin B12	0.01
+MILK	vitamins	thm	Thiamin	0.01
+MILK	vitamins	pnto__R	(R)-Pantothenate	0.01
+MILK	vitamins	fol	Folate	0.01
+MILK	vitamins	ribflv	Riboflavin	0.01
+MILK	vitamins	nac	Isonicotinic acid	0.01
+MILK	vitamins	btn	Biotin	0.01
+MILK	amino acids	ala__L	L-Alanine	0.1
+MILK	amino acids	asn__L	L-Asparagine	0.1
+MILK	amino acids	asp__L	L-Aspartate	0.1
+MILK	amino acids	glu__L	L-Glutamate	0.1
+MILK	amino acids	gln__L	L-Glutamine	0.1
+MILK	amino acids	gly	Glycine	0.1
+MILK	amino acids	his__L	L-Histidine	0.1
+MILK	amino acids	ile__L	L-Isoleucine	0.1
+MILK	amino acids	leu__L	L-Leucine	0.1
+MILK	amino acids	lys__L	L-Lysine	0.1
+MILK	amino acids	orn	Ornithine	0.1
+MILK	amino acids	phe__L	L-Phenylalanine	0.1
+MILK	amino acids	peamn	Phylethylamine	0.1
+MILK	amino acids	pro__L	L-Proline	0.1
+MILK	amino acids	ser__L	L-Serine	0.1
+MILK	amino acids	thr__L	L-Threonine	0.1
+MILK	amino acids	trp__L	tryptophan	0.1
+MILK	amino acids	tyr__L	L-Tyrosine	0.1
+MILK	amino acids	val__L	L-Valine	0.1
+MILK	inorganics	pi	Phosphate	10
+MILK	inorganics	so4	Sulfate	10
+MILK	minerals	ca2	Ca2+	10
+MILK	minerals	cl	Cl-	10
+MILK	minerals	cobalt2	Co2+	10
+MILK	minerals	cu2	Cu2+	10
+MILK	minerals	fe2	Fe2+	10
+MILK	minerals	fe3	Fe3+	10
+MILK	minerals	h	H+	10
+MILK	minerals	k	K+	10
+MILK	minerals	mg2	Mg	10
+MILK	minerals	mn2	Mn2+	10
+MILK	minerals	mobd	Molybdate	10
+MILK	minerals	na1	Na+	10
+MILK	minerals	ni2	Ni2+	10
+MILK	minerals	zn2	Zn2+	10
